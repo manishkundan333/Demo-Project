@@ -13,7 +13,7 @@
     			<id>github</id>
     			<url>https://maven.pkg.github.com/manishkundan333/Demo-Project</url>
   		</repository>
-	</distributionMana
+	</distributionManagement>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
